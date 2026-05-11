@@ -56,4 +56,4 @@ We are neither willing nor obliged to participate in dispute resolution proceedi
 
 ---
 
-*Last updated: February 2026*
+*Last updated: May 2026*

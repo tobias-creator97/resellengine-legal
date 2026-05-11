@@ -2,7 +2,7 @@
 
 **ResellEngine AI - Scan. Bewerten. Verkaufen.**
 
-Zuletzt aktualisiert: 22. Februar 2026
+Zuletzt aktualisiert: 11. Mai 2026
 
 ---
 

@@ -56,4 +56,4 @@ Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer 
 
 ---
 
-*Stand: Februar 2026*
+*Stand: Mai 2026*
