@@ -15,7 +15,7 @@ Germany
 
 ## Contact
 
-Email: support@resellengine.app
+Email: resell.engineai@gmail.com
 
 ---
 

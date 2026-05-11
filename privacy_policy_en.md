@@ -19,7 +19,7 @@ By using ResellEngine AI, you agree to the collection and use of information in 
 Tobias Lochau
 Teltower Straße 15
 14109 Berlin
-Email: support@resellengine.app
+Email: resell.engineai@gmail.com
 
 ---
 
@@ -146,7 +146,7 @@ We may update this Privacy Policy from time to time. In case of significant chan
 
 For privacy questions, please contact us at:
 
-**Email**: support@resellengine.app
+**Email**: resell.engineai@gmail.com
 
 ---
 

@@ -8,7 +8,7 @@
 
 Bei Fragen, Problemen oder Anregungen erreichst du uns unter:
 
-**E-Mail**: support@resellengine.app
+**E-Mail**: resell.engineai@gmail.com
 
 ---
 
@@ -45,7 +45,7 @@ ResellEngine AI erhebt keine Gebühren für die Veröffentlichung. eBay erhebt j
 
 ## Feedback
 
-Wir freuen uns über dein Feedback! Schreib uns einfach an support@resellengine.app.
+Wir freuen uns über dein Feedback! Schreib uns einfach an resell.engineai@gmail.com.
 
 ---
 

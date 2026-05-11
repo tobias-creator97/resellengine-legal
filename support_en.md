@@ -8,7 +8,7 @@
 
 For questions, issues, or suggestions, reach us at:
 
-**Email**: support@resellengine.app
+**Email**: resell.engineai@gmail.com
 
 ---
 
@@ -45,7 +45,7 @@ ResellEngine AI does not charge fees for publishing. However, eBay charges its o
 
 ## Feedback
 
-We'd love to hear from you! Just email us at support@resellengine.app.
+We'd love to hear from you! Just email us at resell.engineai@gmail.com.
 
 ---
 
