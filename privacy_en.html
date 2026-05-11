@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — ResellEngine AI</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;max-width:700px;margin:0 auto;padding:40px 20px;color:#1a1a1a;line-height:1.7;background:#fafafa}
+h1{font-size:24px;margin-bottom:4px}
+h2{font-size:17px;margin:28px 0 8px;color:#333;font-weight:600}
+p{margin:6px 0;font-size:15px}
+ul{margin:8px 0 8px 20px}li{margin:4px 0;font-size:15px}
+a{color:#6F7EFF;text-decoration:none}a:hover{text-decoration:underline}
+.lang{position:fixed;top:20px;right:20px;background:#fff;border:1px solid #eaeaea;border-radius:8px;padding:6px 12px;font-size:13px}
+</style>
+</head>
+<body>
+<a class="lang" href="index.html">DE</a>
+
+<h1>Privacy Policy</h1>
+<p style="color:#888;font-size:13px;margin-bottom:32px">ResellEngine AI · Last updated: May 2026</p>
+
+<h2>1. Data Controller</h2>
+<p>Tobias Lochau<br>Teltower Straße 15<br>14109 Berlin, Germany<br>Email: resell.engineai@gmail.com</p>
+
+<h2>2. What Data We Collect</h2>
+
+<p><strong>a) Device ID</strong><br>
+On first launch, a random anonymous device ID is generated (128-bit, cryptographically secure). This ID contains no personal information and is used solely for matching subscriptions and usage limits. It is stored in the secure keychain (iOS Keychain / Android Keystore) and may persist across reinstalls.</p>
+
+<p><strong>b) Camera Images</strong><br>
+When you scan a product, photos are compressed (max 1200px width, 75% JPEG quality) and sent to an AI service (Google Gemini) for analysis. Transmission is server-side via a Supabase Edge Function proxy. Images are used exclusively for product recognition and condition assessment, neither permanently stored on external servers nor used for training.</p>
+
+<p><strong>c) eBay Account Data</strong><br>
+When you connect your eBay account, authentication is performed via the secure OAuth 2.0 standard. An access token is stored encrypted in your device's secure keychain. The token exchange is performed server-side — your eBay password is never processed or stored by the app. The following eBay permissions are requested: manage inventory, read account information, create and publish listings.</p>
+
+<p><strong>d) Seller Settings</strong><br>
+When creating listings, you can optionally store seller settings (name, country, postal code, shipping preferences). This data is stored exclusively locally on your device in the secure keychain and is only transmitted to eBay when you publish a listing.</p>
+
+<p><strong>e) Drafts and Product Photos</strong><br>
+All drafts (title, description, price, item specifics) and associated product photos are stored exclusively locally on your device. Photos are placed in the private app directory and leave your device only when you actively send them to Google Gemini (scan) or eBay (publish).</p>
+
+<p><strong>f) App Settings</strong><br>
+Language, region, pricing mode, notification preferences, and consent status are stored locally on your device and do not leave it.</p>
+
+<p><strong>g) Subscription Data</strong><br>
+Subscription information is managed via RevenueCat. RevenueCat receives your anonymized device ID and subscription status. No personal payment data is processed by us — billing is handled entirely through Apple (App Store) or Google (Play Store).</p>
+
+<p><strong>h) Usage Data and Analytics</strong><br>
+With your explicit consent (consent banner on first launch), anonymized usage events are collected (e.g., "scan started", "listing published"). These contain no personal data, only the anonymous device ID and event names. You can withdraw consent anytime in Settings → "Privacy".</p>
+
+<p><strong>i) Crash Reports</strong><br>
+In case of an app crash, anonymized technical information (device type, OS version, stack traces) is sent to Sentry. No personal data is transmitted. PII scrubbing is applied to remove tokens, API keys, and device identifiers before transmission.</p>
+
+<h2>3. Third-Party Services</h2>
+
+<p><strong>Google LLC (Gemini AI)</strong> — Product recognition from camera images. <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a>. Location: USA.</p>
+
+<p><strong>eBay Inc.</strong> — Publishing listings to the eBay platform. <a href="https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy" target="_blank">Privacy Policy</a>. Location: USA / international.</p>
+
+<p><strong>Supabase Inc.</strong> — Backend infrastructure (Edge Functions for AI/eBay proxying, anonymous analytics). <a href="https://supabase.com/privacy" target="_blank">Privacy Policy</a>. Location: USA / EU.</p>
+
+<p><strong>RevenueCat Inc.</strong> — Subscription management. <a href="https://www.revenuecat.com/privacy/" target="_blank">Privacy Policy</a>. Location: USA.</p>
+
+<p><strong>Functional Software Inc. (Sentry)</strong> — Anonymized crash reporting. <a href="https://sentry.io/privacy/" target="_blank">Privacy Policy</a>. Location: USA.</p>
+
+<p><strong>Jina AI GmbH</strong> — Market data retrieval via Reader API (server-side). <a href="https://jina.ai/legal#privacy-policy" target="_blank">Privacy Policy</a>. Location: Germany / USA.</p>
+
+<p><em>Note on data transfer to the USA:</em> When using Google Gemini, eBay, RevenueCat, and Sentry, data may be transferred to the USA. Transfer is based on Art. 49(1)(a) GDPR (your explicit consent) and Standard Contractual Clauses (Art. 46(2)(c) GDPR).</p>
+
+<h2>4. Your Rights (GDPR Art. 15–21)</h2>
+<ul>
+<li><strong>Right of access</strong> (Art. 15 GDPR)</li>
+<li><strong>Right to rectification</strong> (Art. 16 GDPR)</li>
+<li><strong>Right to erasure</strong> (Art. 17 GDPR)</li>
+<li><strong>Right to restriction of processing</strong> (Art. 18 GDPR)</li>
+<li><strong>Right to data portability</strong> (Art. 20 GDPR)</li>
+<li><strong>Right to object</strong> (Art. 21 GDPR)</li>
+</ul>
+<p>To delete data: Settings → Delete all drafts / Disconnect eBay / Uninstall the app.</p>
+<p>You have the right to file a complaint with a data protection supervisory authority.</p>
+
+<h2>5. Data Retention</h2>
+<ul>
+<li>Camera images: only during analysis, immediately discarded</li>
+<li>eBay token: until you disconnect your eBay account</li>
+<li>Drafts: until you manually delete them</li>
+<li>App settings: until you uninstall the app</li>
+<li>Crash reports: 90 days (Sentry default)</li>
+</ul>
+
+<h2>6. Data Security</h2>
+<ul>
+<li>eBay access tokens stored encrypted in device Secure Store</li>
+<li>All third-party communication via encrypted HTTPS</li>
+<li>No tracking SDKs, no advertising SDKs</li>
+<li>No IDFA collection</li>
+</ul>
+
+<h2>7. Minors</h2>
+<p>ResellEngine AI is not intended for persons under 16 years of age. We do not knowingly collect personal data from children under 16.</p>
+
+<h2>8. Changes to this Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time. Significant changes will be communicated via an in-app update or App Store update.</p>
+
+<h2>9. Contact</h2>
+<p>For privacy questions, contact us at: <a href="mailto:resell.engineai@gmail.com">resell.engineai@gmail.com</a></p>
+
+<p style="margin-top:32px;color:#888;font-size:13px"><em>This Privacy Policy complies with the requirements of the GDPR and the German Federal Data Protection Act (BDSG).</em></p>
+
+</body>
+</html>
