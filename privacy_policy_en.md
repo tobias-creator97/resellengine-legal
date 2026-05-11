@@ -16,9 +16,9 @@ By using ResellEngine AI, you agree to the collection and use of information in 
 
 ## 2. Data Controller
 
-[Full Name]
-[Street Address]
-[City, Postal Code]
+Tobias Lochau
+Teltower Straße 15
+14109 Berlin
 Email: support@resellengine.app
 
 ---

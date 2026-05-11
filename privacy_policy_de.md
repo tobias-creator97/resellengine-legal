@@ -16,9 +16,9 @@ Durch die Nutzung von ResellEngine AI stimmen Sie der Erfassung und Verwendung v
 
 ## 2. Verantwortlicher
 
-[Vor- und Nachname]
-[Straße und Hausnummer]
-[PLZ und Ort]
+Tobias Lochau
+Teltower Straße 15
+14109 Berlin
 E-Mail: support@resellengine.app
 
 ---

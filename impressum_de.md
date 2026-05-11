@@ -6,10 +6,10 @@
 
 ## Anbieter
 
-[Vor- und Nachname]
-[Straße und Hausnummer]
-[PLZ und Ort]
-[Land]
+Tobias Lochau
+Teltower Straße 15
+14109 Berlin
+Deutschland
 
 ---
 
@@ -21,9 +21,9 @@ E-Mail: support@resellengine.app
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-[Vor- und Nachname]
-[Straße und Hausnummer]
-[PLZ und Ort]
+Tobias Lochau
+Teltower Straße 15
+14109 Berlin
 
 ---
 

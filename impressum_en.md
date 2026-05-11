@@ -6,10 +6,10 @@
 
 ## Provider
 
-[Full Name]
-[Street Address]
-[City, Postal Code]
-[Country]
+Tobias Lochau
+Teltower Straße 15
+14109 Berlin
+Germany
 
 ---
 
@@ -21,9 +21,9 @@ Email: support@resellengine.app
 
 ## Responsible for content according to § 55 Abs. 2 RStV
 
-[Full Name]
-[Street Address]
-[City, Postal Code]
+Tobias Lochau
+Teltower Straße 15
+14109 Berlin
 
 ---
 
